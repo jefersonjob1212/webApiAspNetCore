@@ -1,0 +1,14 @@
+C:\Users\JobAndrade\repositories\webApiAspNetCore\bin\Debug\netcoreapp2.2\webApiAspNetCore.deps.json
+C:\Users\JobAndrade\repositories\webApiAspNetCore\bin\Debug\netcoreapp2.2\webApiAspNetCore.runtimeconfig.json
+C:\Users\JobAndrade\repositories\webApiAspNetCore\bin\Debug\netcoreapp2.2\webApiAspNetCore.runtimeconfig.dev.json
+C:\Users\JobAndrade\repositories\webApiAspNetCore\bin\Debug\netcoreapp2.2\webApiAspNetCore.dll
+C:\Users\JobAndrade\repositories\webApiAspNetCore\bin\Debug\netcoreapp2.2\webApiAspNetCore.pdb
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.csprojAssemblyReference.cache
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.RazorAssemblyInfo.cache
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.RazorAssemblyInfo.cs
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.AssemblyInfoInputs.cache
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.AssemblyInfo.cs
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.dll
+C:\Users\JobAndrade\repositories\webApiAspNetCore\obj\Debug\netcoreapp2.2\webApiAspNetCore.pdb
